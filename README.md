@@ -1,1 +1,1 @@
-# simple-moderation-bot
+![]()
